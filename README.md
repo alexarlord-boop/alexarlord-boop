@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexarlord-boop
+- 👋 Hi, I’m Aleksandr
 - 👀 I’m interested in software engineering and DevOps practices.
 
 - 🌱 I’m currently learning CI/CD instruments like Jenkins, Docker, Kubernetes, AWS. I'm also enrolling Neapolis University in Cyprus!
